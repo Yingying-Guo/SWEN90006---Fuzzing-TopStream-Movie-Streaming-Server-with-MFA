@@ -1,0 +1,86 @@
+LIST
+LOAD Movies_by_group15.txt
+LOAD bufferOverflow.txt
+USER admin
+PASS admin
+DPIN 1111
+REGU testForPass,testpass
+PLAY 5
+LOGO
+LOAD movies.txt
+USER admin
+PASS admin
+DPIN 1111
+LOAD
+LOGO
+USER testForPass
+PASS testpass
+LOAD movies.txt
+LOGO
+USER admin
+PASS admin
+DPIN 1111
+LOAD movieeeeees.txt
+LOAD movies1ForError560.txt
+LOAD movies2ForError560.txt
+LOAD movies.txt
+LOAD mix.txt
+LOAD error_length_not_number.txt
+LOAD error_length_negative.txt
+LOAD error_type_not_number.txt
+LOAD error_type_negative.txt
+LOAD error_insufficient_data.txt
+LOAD error_too_much_data.txt
+LOGO
+LIST
+PLAY 5
+USER admin
+PASS admin
+DPIN 1111
+PLAY
+REGU freeaccount,freepass
+UPDA freeaccount,FREE
+LOGO
+USER freeaccount
+PASS freepass
+PLAY 1
+LOGO
+USER admin
+PASS admin
+DPIN 1111
+PLAY 100
+PLAY ABC
+PLAY 0
+PLAY 1
+PLAY 2
+PLAY 3
+PLAY 4
+PLAY 5
+PLAY 6
+PLAY 7
+PLAY 8
+PLAY 9
+PLAY 10
+PLAY 11
+PLAY 12
+PLAY 13
+PLAY 14
+PLAY 15
+PLAY 16
+PLAY 17
+PLAY 18
+PLAY 19
+PLAY 20
+LOGO
+LOGO
+WULA 123
+QUIT
+USER admin
+PASS admin
+DPIN 1111
+PLAY 100
+PLAY ABC
+PLAY 0
+PLAY 1
+PLAY 2
+

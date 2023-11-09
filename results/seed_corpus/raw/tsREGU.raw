@@ -1,0 +1,20 @@
+REGU testForRegu,testpass
+USER admin
+PASS admin
+DPIN 1111
+REGU test,testpass
+REGU
+LOGO
+USER test
+PASS testpass
+REGU testForRegu,testpass
+LOGO
+USER admin
+PASS admin
+DPIN 1111
+REGU test,testpass1
+REGU testForRegu,1234567891011121314151617181920
+REGU testForRegutestpass
+REGU testForRegu,testpass
+LOGO
+

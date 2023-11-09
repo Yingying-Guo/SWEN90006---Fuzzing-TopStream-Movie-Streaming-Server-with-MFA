@@ -1,0 +1,1 @@
+afl-fuzz -d -c ./restart.sh -i $WORKDIR/results/seed_corpus -o $WORKDIR/results/topstream_out -N tcp://127.0.0.1/8888 -P TOPSTREAM -D 10000 -q 3 -s 3 -E -K -R /home/ubuntu/topstream/topstream-fuzz 127.0.0.1 8888 127.0.0.1 9999

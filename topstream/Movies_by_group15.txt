@@ -1,0 +1,5 @@
+A VIP movie,120,2
+Another VIP(VIP),135,2
+A BASIC movie,180,1
+Would be VIP as the int is 12,120,12
+MUSTBEVIP,120,2

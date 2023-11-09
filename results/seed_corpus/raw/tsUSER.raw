@@ -1,0 +1,10 @@
+USER
+USER wula
+USER admin
+PASS admin
+DPIN 1111
+REGU test,testpass
+USER test
+LOGO
+USER admin
+

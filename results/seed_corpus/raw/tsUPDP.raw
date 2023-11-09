@@ -1,0 +1,19 @@
+UPDP newpass,newpass
+USER admin
+PASS admin
+DPIN 1111
+UPDP
+UPDP newpassnewpass
+UPDP newpass,newpas
+UPDP newpass,newpass
+UPDP admin,admin
+REGU primary_user,primary_user
+LOGO
+USER primary_user
+PASS primary_user
+UPDP codecodecodecodecodecodecodecodeocdeocdecodecodecodecode,codecodecodecodecodecodecodecodeocdeocdecodecodecodecode
+LOGO
+USER primary_user
+PASS codecodecodecodecodecodecodecodeocdeocdecodecodecodecode
+LIST
+LOGO

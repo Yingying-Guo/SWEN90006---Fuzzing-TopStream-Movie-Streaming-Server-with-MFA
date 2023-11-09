@@ -1,0 +1,24 @@
+UPDA test,VIP
+USER admin
+PASS admin
+DPIN 1111
+REGU testForPass,testpass
+UPDA
+LOGO
+USER testForPass
+PASS testpass
+UPDA testForPass,VIP
+LOGO
+USER admin
+PASS admin
+DPIN 1111
+UPDA
+UPDA testForPass,WULA
+UPDA testForPasss,VIP
+UPDA testForPasss
+UPDA testForPass,FREE
+UPDA testForPass,BASIC
+UPDA testForPass,VIP
+UPDA testForPass,VIPPPP
+LOGO
+

@@ -1,0 +1,22 @@
+USER admin
+PASS admin
+DPIN 1111
+PASS admin
+LOGO
+USER admin
+PASS
+USER admin
+PASS admi
+USER admin
+PASS admin
+DPIN 1111
+REGU testForPass,testpass
+LOGO
+USER testForPass
+PASS testpass
+LOGO
+USER admin
+PASS admin
+DPIN 1111
+LOGO
+

@@ -1,0 +1,21 @@
+Group Number:
+
+Member-1:
+- Name: Junheng Chen
+- Student ID:1049540
+- Email:junhengc@student.unimelb.edu.au
+
+Member-2:
+- Name: Ling Huang
+- Student ID:1015103
+- Email:linghuang@student.unimelb.edu.au
+
+Member-3:
+- Name: Yingying Guo
+- Student ID:1382000
+- Email:yinguo3@student.unimelb.edu.au
+
+Member-4:
+- Name: Hanyu Wang
+- Student ID:1347595
+- Email:hanywang3@student.unimelb.edu.au
